@@ -22,7 +22,7 @@ Folder NE3 contains the code for the experiments conducted in section 5.3 of the
 ---NE3_P3.java is the implementation of the Procedure 3, while NE3_mainP3.java executes the modified Procedure 2 to solve the problem in section 5.3;
 
 
-Folder NE3 contains the code for the experiments conducted in section 5.4 of the paper.
+Folder NE4 contains the code for the experiments conducted in section 5.4 of the paper.
 
 ---NE4_ED.java is used to simulate the emergency department system.
 
